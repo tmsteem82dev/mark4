@@ -1,0 +1,50 @@
+{
+  "name": "mark4",
+  "padlock": "xr2AtA6VOtGHcWxTQjp4fQ==!ZMbw0y+G9UbThmVRPEKIYg32lK12p0X723SSJOyK/tWBHCudXULZg1iNTSpX0rf2",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "953388c5-79f3-4dfc-8a19-a9719746a861",
+      "subscriptionId": "a6704918-96ca-4bbe-8063-b3f7f3ad0177",
+      "resourceGroup": "dutch_teach",
+      "serviceName": "mark4",
+      "type": "abs",
+      "name": "mark4",
+      "id": "1"
+    },
+    {
+      "connectionString": "fBfJBu8IsO5fOeyzxsf6xg==!a2qMjLp2t/bSOO5wxhEXE6BRmsOV94HkKN7EdGP8DAbj1fVYEeNHaUdUgkzaVMnlSD2hpYXr505sHMKTvbsZk5HmvEOSslTu7LnlCG2OLcOawHRP5WucbXsNVjTPT8tYEipG+7IXXDlAhR03XSBIK/pZYVW+JjfDHex0ojz9R+C9Mni7jPNEXcaxBSeqhKYHgVJBDt3wysGaNQz21ayXXw==",
+      "tenantId": "953388c5-79f3-4dfc-8a19-a9719746a861",
+      "subscriptionId": "a6704918-96ca-4bbe-8063-b3f7f3ad0177",
+      "resourceGroup": "dutch_teach",
+      "serviceName": "mark4a977",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "cced49b4-2d27-401f-a4f3-c3d72240a6e0",
+      "appPassword": "XSUAWUeKX7CIFCyc2bQVmQ==!7Mbnr0DXZmXLunIEEKIoWMGFGzGG7p1fqQc+UyHbYBA=",
+      "endpoint": "https://mark4.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "1cbf4197-bdc8-4bf5-a347-3b77472b2e07",
+      "authoringKey": "QtJrj2IMWCiGfZP0i3hSUw==!Z6u/esqLpBbZiyGVAmk/OOvS8E136YFd3g6pN9Gv8IdUrAqos1D2x2zDWAnGFA7V",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
